@@ -34,7 +34,7 @@
           <mxGeometry x="490" y="550" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JLhIAm3KUsmFy0FRxvBO-16" value="动态验证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
