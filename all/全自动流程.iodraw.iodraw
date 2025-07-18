@@ -101,7 +101,7 @@
           <mxGeometry x="670" y="550" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JLhIAm3KUsmFy0FRxvBO-34" value="1.计算圆度判定完整性&lt;br&gt;2.圆心位置2秒不变，判定人员操作完毕" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="540" y="175" width="230" height="70" as="geometry" />
+          <mxGeometry x="540" y="183" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JLhIAm3KUsmFy0FRxvBO-35" value="1.物料清洁&lt;br&gt;2.重新换料" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="390" y="175" width="86" height="86" as="geometry" />
@@ -113,9 +113,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="150" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="U8NUjj1-TwUwSkfBWiMe-22" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="100" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
