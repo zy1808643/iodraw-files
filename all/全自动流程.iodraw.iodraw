@@ -117,7 +117,7 @@
         <mxCell id="U8NUjj1-TwUwSkfBWiMe-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U8NUjj1-TwUwSkfBWiMe-24" target="U8NUjj1-TwUwSkfBWiMe-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U8NUjj1-TwUwSkfBWiMe-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" connectable="0" parent="U8NUjj1-TwUwSkfBWiMe-32">
+        <mxCell id="U8NUjj1-TwUwSkfBWiMe-33" value="NG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#028090;fontColor=#330000;fillColor=#F45B69;" vertex="1" connectable="0" parent="U8NUjj1-TwUwSkfBWiMe-32">
           <mxGeometry x="-0.0321" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
