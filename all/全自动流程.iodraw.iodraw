@@ -106,8 +106,8 @@
         <mxCell id="JLhIAm3KUsmFy0FRxvBO-35" value="1.物料清洁&lt;br&gt;2.重新换料" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="390" y="167" width="86" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="U8NUjj1-TwUwSkfBWiMe-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#E4FDE1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="445" y="320" width="315" height="130" as="geometry" />
+        <mxCell id="U8NUjj1-TwUwSkfBWiMe-2" value="X" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#E4FDE1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="300" width="380" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
