@@ -100,13 +100,13 @@
         <mxCell id="JLhIAm3KUsmFy0FRxvBO-30" value="手动处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="670" y="550" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JLhIAm3KUsmFy0FRxvBO-34" value="1.计算圆度判定完整性&lt;br&gt;2.圆心位置2秒不变，判定人员操作完毕" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#E6E6E6;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="JLhIAm3KUsmFy0FRxvBO-34" value="1.计算圆度判定完整性&lt;br&gt;2.圆心位置2秒不变，判定人员操作完毕" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="175" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JLhIAm3KUsmFy0FRxvBO-35" value="1.物料清洁&lt;br&gt;2.重新换料" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="390" y="167" width="86" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="U8NUjj1-TwUwSkfBWiMe-3" value="1.计算圆度判定完整性&lt;br&gt;2.圆心位置2秒不变，判定人员操作完毕" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#E6D0DE;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U8NUjj1-TwUwSkfBWiMe-3" value="1.计算圆度判定完整性&lt;br&gt;2.圆心位置2秒不变，判定人员操作完毕" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="395" y="330" width="365" height="130" as="geometry" />
         </mxCell>
       </root>
