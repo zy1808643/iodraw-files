@@ -123,8 +123,8 @@
         <mxCell id="U8NUjj1-TwUwSkfBWiMe-29" value="D1526 D1426 给值，D150 D140监控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="349" y="330" width="141" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U8NUjj1-TwUwSkfBWiMe-30" value="D1526 D1426 给值，D150 D140监控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="359" y="340" width="141" height="40" as="geometry" />
+        <mxCell id="U8NUjj1-TwUwSkfBWiMe-30" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="338" y="455" width="141" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
