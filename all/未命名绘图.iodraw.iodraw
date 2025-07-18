@@ -15,11 +15,8 @@
         <mxCell id="6LDhZyVLjZoSTAMkpFWc-0" value="&amp;nbsp;匀速旋转（低速）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6LDhZyVLjZoSTAMkpFWc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6LDhZyVLjZoSTAMkpFWc-1" target="6LDhZyVLjZoSTAMkpFWc-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6LDhZyVLjZoSTAMkpFWc-1" value="拍照（15张），间隔50ms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6LDhZyVLjZoSTAMkpFWc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6LDhZyVLjZoSTAMkpFWc-4" target="6LDhZyVLjZoSTAMkpFWc-6">
           <mxGeometry relative="1" as="geometry" />
@@ -47,9 +44,6 @@
         </mxCell>
         <mxCell id="6LDhZyVLjZoSTAMkpFWc-12" value="旋转（正常速度）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="780" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6LDhZyVLjZoSTAMkpFWc-14" value="&amp;nbsp;匀速旋转（低速）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
