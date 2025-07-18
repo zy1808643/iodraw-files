@@ -42,11 +42,14 @@
         <mxCell id="6LDhZyVLjZoSTAMkpFWc-8" value="拍照计算偏移量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="560" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="6LDhZyVLjZoSTAMkpFWc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6LDhZyVLjZoSTAMkpFWc-10" target="6LDhZyVLjZoSTAMkpFWc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6LDhZyVLjZoSTAMkpFWc-10" value="位置矫正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="640" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6LDhZyVLjZoSTAMkpFWc-12" value="位置矫正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="650" width="120" height="50" as="geometry" />
+        <mxCell id="6LDhZyVLjZoSTAMkpFWc-12" value="旋转（正常速度）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="720" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
