@@ -18,6 +18,11 @@
         <mxCell id="JLhIAm3KUsmFy0FRxvBO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JLhIAm3KUsmFy0FRxvBO-4" target="JLhIAm3KUsmFy0FRxvBO-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JLhIAm3KUsmFy0FRxvBO-37" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JLhIAm3KUsmFy0FRxvBO-36">
+          <mxGeometry x="-0.1378" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JLhIAm3KUsmFy0FRxvBO-4" value="物料是否放置完毕+&lt;br&gt;顶面圆是否完整" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="170" width="160" height="80" as="geometry" />
         </mxCell>
@@ -94,7 +99,7 @@
           <mxGeometry x="500" y="170" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JLhIAm3KUsmFy0FRxvBO-35" value="1.物料清洁&lt;br&gt;2.重新换料" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="170" width="86" height="86" as="geometry" />
+          <mxGeometry x="390" y="167" width="86" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
