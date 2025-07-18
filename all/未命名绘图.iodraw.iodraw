@@ -15,10 +15,15 @@
         <mxCell id="JLhIAm3KUsmFy0FRxvBO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JLhIAm3KUsmFy0FRxvBO-4" target="JLhIAm3KUsmFy0FRxvBO-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JLhIAm3KUsmFy0FRxvBO-38" value="OK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JLhIAm3KUsmFy0FRxvBO-18">
+          <mxGeometry x="-0.4" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JLhIAm3KUsmFy0FRxvBO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JLhIAm3KUsmFy0FRxvBO-4" target="JLhIAm3KUsmFy0FRxvBO-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLhIAm3KUsmFy0FRxvBO-37" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JLhIAm3KUsmFy0FRxvBO-36">
+        <mxCell id="JLhIAm3KUsmFy0FRxvBO-37" value="NG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JLhIAm3KUsmFy0FRxvBO-36">
           <mxGeometry x="-0.1378" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -79,7 +84,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JLhIAm3KUsmFy0FRxvBO-16" value="动态验证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="505" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JLhIAm3KUsmFy0FRxvBO-17" value="进入下一步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="720" width="120" height="50" as="geometry" />
