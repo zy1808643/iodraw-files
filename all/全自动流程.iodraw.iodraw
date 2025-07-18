@@ -139,8 +139,8 @@
         <mxCell id="U8NUjj1-TwUwSkfBWiMe-30" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="338" y="455" width="141" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U8NUjj1-TwUwSkfBWiMe-31" value="计算顶面圆心偏移量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="338" y="100" width="120" height="50" as="geometry" />
+        <mxCell id="U8NUjj1-TwUwSkfBWiMe-31" value="自动回原点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="348.5" y="100" width="71.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
