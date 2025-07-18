@@ -114,9 +114,6 @@
             <mxPoint x="220" y="150" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U8NUjj1-TwUwSkfBWiMe-23" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="373" y="70" width="120" height="57" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
