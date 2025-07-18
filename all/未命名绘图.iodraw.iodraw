@@ -87,9 +87,6 @@
         <mxCell id="JLhIAm3KUsmFy0FRxvBO-30" value="手动处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="550" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JLhIAm3KUsmFy0FRxvBO-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="360" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
