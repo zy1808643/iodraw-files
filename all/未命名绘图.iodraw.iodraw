@@ -90,10 +90,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6LDhZyVLjZoSTAMkpFWc-24" value="识别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6LDhZyVLjZoSTAMkpFWc-29" value="换物料" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="390" width="120" height="40" as="geometry" />
+          <mxGeometry x="700" y="390" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
