@@ -48,6 +48,9 @@
         <mxCell id="6LDhZyVLjZoSTAMkpFWc-10" value="位置矫正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="750" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="6LDhZyVLjZoSTAMkpFWc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6LDhZyVLjZoSTAMkpFWc-12" target="6LDhZyVLjZoSTAMkpFWc-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6LDhZyVLjZoSTAMkpFWc-12" value="旋转（正常速度）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="830" width="120" height="50" as="geometry" />
         </mxCell>
@@ -96,7 +99,7 @@
           <mxGeometry x="700" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6LDhZyVLjZoSTAMkpFWc-31" value="旋转（正常速度）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="840" width="120" height="50" as="geometry" />
+          <mxGeometry x="160" y="930" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
