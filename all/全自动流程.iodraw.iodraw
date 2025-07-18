@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1050" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="300" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -100,7 +100,7 @@
         <mxCell id="JLhIAm3KUsmFy0FRxvBO-30" value="手动处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="550" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JLhIAm3KUsmFy0FRxvBO-34" value="1.计算圆度判定完整性&lt;br&gt;2.圆心位置2秒不变，判定人员操作完毕" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="JLhIAm3KUsmFy0FRxvBO-34" value="1.计算圆度判定完整性&lt;br&gt;2.圆心位置2秒不变，判定人员操作完毕" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#B3B3B3;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520" y="185.5" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JLhIAm3KUsmFy0FRxvBO-35" value="1.物料清洁&lt;br&gt;2.重新换料" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -130,13 +130,13 @@
         <mxCell id="U8NUjj1-TwUwSkfBWiMe-24" value="X Y轴原点位置确认" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="105" width="160" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="U8NUjj1-TwUwSkfBWiMe-28" value="D150 D140 ？=0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U8NUjj1-TwUwSkfBWiMe-28" value="D150 D140 ？=0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#B3B3B3;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="105" width="130" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="U8NUjj1-TwUwSkfBWiMe-29" value="D1526 D1426 给值，D150 D140监控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U8NUjj1-TwUwSkfBWiMe-29" value="D1526 D1426 给值，D150 D140监控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#B3B3B3;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="330" width="141" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U8NUjj1-TwUwSkfBWiMe-30" value="D1528 D1428给值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="U8NUjj1-TwUwSkfBWiMe-30" value="D1528 D1428给值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#B3B3B3;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="455" width="141" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U8NUjj1-TwUwSkfBWiMe-31" value="自动回原点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
