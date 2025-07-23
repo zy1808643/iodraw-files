@@ -142,8 +142,8 @@
         <mxCell id="U8NUjj1-TwUwSkfBWiMe-31" value="自动回原点" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="349" y="107.5" width="71.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tx-twW2HeywQf-fWcJdR-0" value="D150 D140 ？=0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#B3B3B3;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="115" width="130" height="37.5" as="geometry" />
+        <mxCell id="Tx-twW2HeywQf-fWcJdR-0" value="R 轴 实时位置：D130" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#B3B3B3;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="375.9" y="75" width="424.1" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
