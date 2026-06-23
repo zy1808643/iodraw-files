@@ -29,7 +29,10 @@
           <mxGeometry x="125" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="amwudx_AnwF5la0syEjV-12" value="步骤3：BTV优化（Adam）&lt;div&gt;------------------------------------------&lt;/div&gt;&lt;div&gt;数据项：投影后的HR应该≈真实的LR（L1损失，抗异常值）&lt;/div&gt;&lt;div&gt;------------------------------------------&lt;/div&gt;&lt;div&gt;BTV正则：相邻像素不能跳变的太大（抑制锯齿+振铃）&lt;/div&gt;&lt;div&gt;------------------------------------------&lt;/div&gt;&lt;div&gt;梯度下降更新HR图&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="410" width="210" height="170" as="geometry" />
+          <mxGeometry x="90" y="410" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="amwudx_AnwF5la0syEjV-13" value="步骤2：构建模型当前偏移量将HR图“投影”到每张LR图的视角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
