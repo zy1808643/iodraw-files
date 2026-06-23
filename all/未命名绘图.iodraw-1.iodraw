@@ -47,12 +47,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="amwudx_AnwF5la0syEjV-18" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="320" width="180" height="10" as="geometry" />
+          <mxGeometry x="180" y="320" width="190" height="10" as="geometry" />
         </mxCell>
         <mxCell id="amwudx_AnwF5la0syEjV-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="359.5" y="320" as="sourcePoint" />
-            <mxPoint x="359.5" y="420" as="targetPoint" />
+            <mxPoint x="370" y="320" as="sourcePoint" />
+            <mxPoint x="369.5" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="amwudx_AnwF5la0syEjV-23" value="步骤1：初始配准&lt;div&gt;找到每张图对于参考帧的偏移（相位相关法，亚像素精度）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
