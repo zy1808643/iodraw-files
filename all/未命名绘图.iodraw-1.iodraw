@@ -61,6 +61,9 @@
         <mxCell id="amwudx_AnwF5la0syEjV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="amwudx_AnwF5la0syEjV-23" target="amwudx_AnwF5la0syEjV-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="amwudx_AnwF5la0syEjV-25" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
